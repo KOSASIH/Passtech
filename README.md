@@ -1,0 +1,2 @@
+# Passtech
+Decentralized password manager.
