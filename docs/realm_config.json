@@ -1,0 +1,8 @@
+{
+    "app_id": "passtech-sazuk",
+    "config_version": 20210101,
+    "name": "Passtech",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL",
+    "environment": "production"
+}
